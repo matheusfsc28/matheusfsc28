@@ -31,8 +31,9 @@
 
 ###
 
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,aws,postgresql,mongo,docker,azure,react,php,laravel)
-
+<p align="center">
+    <img src="https://skillicons.dev/icons?i=cs,dotnet,aws,postgresql,mongo,docker,azure,react,php,laravel"
+</p>
 
 ###
 
